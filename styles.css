@@ -1,0 +1,40 @@
+html {
+	margin: -22px 0 0 0;
+}
+
+body {
+	background-color: rgb(230, 236, 245);
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+}
+
+header {
+	background-color: rgb(38, 123, 234);
+	color: white;
+	min-height: 18rem;
+	padding: 14px;
+}
+
+.inner-header {
+	margin: 5rem 0 5rem 0;
+	vertical-align: center;
+	text-align: center;
+}
+
+h1 {
+	font-size: 4rem;
+	line-height: 4.2rem;
+	margin: 1rem;
+}
+
+h2 {
+	font-size: 2.6rem;
+	line-height: 2.8rem;
+	margin: 1rem;
+}
+
+main {
+	font-size: 1.5rem;
+	color: rgb(58, 59, 61);
+	margin: 5% 20%;
+}
